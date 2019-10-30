@@ -1,0 +1,9 @@
+explosion :地雷・メテオの爆破に使用
+
+smoke     :建物出現・ランクアップ時に使用
+
+typhoom　 :台風用
+
+fireflower :花火がのぼる時に使用
+
+fireflower_xxx :リザルト画面時の花火の演出用（3種あり）

@@ -1,0 +1,4 @@
+①Scriptフォルダを作成する
+②[名前]_Cppフォルダと[名前]_Headerフォルダを作成する
+
+CppとHederの書き方はA_CppとA_Hederを参照して下さい

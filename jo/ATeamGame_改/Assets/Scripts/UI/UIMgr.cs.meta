@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 135b68c1e6e029d49bd45e3eac4adf09
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dropPlace: {instanceID: 0}
+  - handTransform: {instanceID: 0}
+  - cardPrefab: {instanceID: 0}
+  - manaCostText: {instanceID: 0}
+  - timeCountText: {instanceID: 0}
+  - nowTurnText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

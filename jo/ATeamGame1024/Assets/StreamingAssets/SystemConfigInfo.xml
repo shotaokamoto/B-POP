@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--    ”B-POP”核心グローバルパラメータ  -->
+<SystemConfigInfo>
+  <!-- Log System核心パラメータ -->
+  <!--Logファイルパス-->
+  <LogPath>E:\B-POPLog.txt</LogPath>
+  <!--Log状態：開発モード　Develop/指定プログラムoutput    Speacial/配置モード　Deploy/停止　Stop-->
+  <LogState>Develop</LogState>
+  <!--Log Max 容量-->
+  <LogMaxCapacity>2000</LogMaxCapacity>
+  <!--Log バッファ数-->
+  <LogBufferNumber>1</LogBufferNumber>
+  <!--他のシステム核心パラメータ-->
+  </SystemConfigInfo>

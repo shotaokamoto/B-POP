@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 135b68c1e6e029d49bd45e3eac4adf09
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dropPlace: {instanceID: 0}
+  - handTransform: {instanceID: 0}
+  - cardPrefab: {instanceID: 0}
+  - timeCountText: {instanceID: 0}
+  - nowCostText: {instanceID: 0}
+  - nowTurnText: {instanceID: 0}
+  - nowScoreText: {instanceID: 0}
+  - useCardData: {instanceID: 0}
+  - Obj: {instanceID: 0}
+  - Rock: {fileID: 721494360022613566, guid: 04a953d4c34d6924683f5306fbfe8aae, type: 3}
+  executionOrder: 80
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

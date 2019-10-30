@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08ca06567651b8c449769684d02dd69e, type: 3}
+  m_Name: Card3
+  m_EditorClassIdentifier: 
+  CardSpriteEntity: {fileID: 21300000, guid: 98b42e296760c3744a8710ff6ca60726, type: 3}
+  CardNumberEntity: 3
+  CardNameEntity: "\u30B9\u30FC\u30D1\u30FC"
+  CardTextEntity: rank1 20/rank2 50
+  CardCostEntity: 2
+  CardScoreEntity: 20
+  CardTypeEntity: 1
+  CardRarityEntity: 0
+  CardMaximumEntity: 7
